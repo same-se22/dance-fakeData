@@ -1,0 +1,87 @@
+[
+    {
+    "id": "1",
+    "name":"Ballet Dance",
+    "price":"140",
+    "img":"https://bidunart.com/wp-content/uploads/2020/01/MovementBallet059a-1280x640.jpg",
+    "des":"theatrical dance in which a formal academic dance technique—the danse d'école—is combined with other artistic elements such as music, costume, and stage scenery. "
+},
+    {
+    "id": "2",
+    "name":"Ballroom Dance",
+    "price":"35",
+    "img":"https://dancesportkingdom.com.au/ballroom-dancers-make-better-lovers/",
+    "des":"Rhinestone can be a very important element in ballroom dance. Sometimes shiny dancing dress and high heel not enough. This understated luxurious rhinestone makeup can be a plus for your appearance. "
+},
+{
+    "id":"3",
+    "name":"Contemporary Dance",
+    "price":"37",
+    "img":"https://theluxauthority.com/wp-content/uploads/2018/12/contemporary-dance-costumes-4.png",
+    "des":"Contemporary is an important genre of dance performed in societies around the world, celebrated by people both young and old."
+},
+{
+    "id":"4",
+    "name":"Hip Hop",
+    "price":"48",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/b/b3/Capoeira_Rijeka_2_140510.jpg",
+    "des":"Hip hop dance is a range of street dance styles primarily performed to hip hop music or that have evolved as part of hip hop culture."
+},
+{
+    "id":"5",
+    "name":"Jazz Dance",
+    "price":"39",
+    "img":"https://image.winudf.com/v2/image/Y29tLkphenouRGFuY2Vfc2NyZWVuc2hvdHNfMF9iNmVhN2RjYg/screen-0.jpg?fakeurl=1&type=.jpg",
+    "des":"Jazz dance is a form of dance that combines both African and European dance styles. This high-energy dance has a liveliness that sets it apart from traditional dance forms, such as classical ballet. Like jazz music, jazz dance features improvisation."
+},
+{
+    "id":"6",
+    "name":"Tap Dance",
+    "price":"42",
+    "img":"https://media.vanityfair.com/photos/5887c6feb2c09d466afeec6b/master/w_1600,c_limit/lala-land-tap-dancing.jpg",
+    "des":"Tap dance is a form of dance characterized by using the sounds of tap shoes striking the floor as a form of percussion."
+},
+{
+    "id":"7",
+    "name":"Folk Dance",
+    "price":"34",
+    "img":"https://www.liveabout.com/thmb/TO2C2fcNa2x_8tylFKKyCFwg9yQ=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/138588932-56a21dd65f9b58b7d0c6b371.jpg",
+    "des":"A folk dance is a dance developed by people that reflect the life of the people of a certain country or region. Not all ethnic dances are folk dances."
+},
+{
+    "id":"8",
+    "name":"Irish Dance",
+    "price":"50",
+    "img":"https://i.pinimg.com/736x/40/1f/33/401f33c4ff575b2b42895bdf24b693a8.jpg",
+    "des":"Irish Dance refers to a group of traditional dance forms originating from Ireland, encompassing dancing both solo and in groups, and dancing for social,"
+},
+{
+    "id":"9",
+    "name":"Modern Dance",
+    "price":"41",
+    "img":"https://www.israel21c.org/wp-content/uploads/2020/02/Horses-1168x657.jpg",
+    "des":"modern dance is enjoyed across the world with participants having the ability to practice ballet dancing without having to place strict focus on their techniques or turnout."
+},
+{
+    "id":"10",
+    "name":"Swing Dance",
+    "price":"45",
+    "img":"https://www.liveabout.com/thmb/9B3c7yicZYpm-9LFJTvAydh3JbM=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/adult-people-dancing-lindy-hop-in-pairs-913068466-5afed6018023b90036adb5c0.jpg",
+    "des":"Swing dancers will feel at home on our range of vinyl dance floors. Similar to Jazz, Swing dancers can create beautiful performances on Harlequin’s range of vinyl floors such as Harlequin Reversible Pro with a high performance slip-resistant surface to protect your dancers."
+},
+{
+    "id":"11",
+    "name":"Salsa dance",
+    "price":"29",
+    "img":"https://media.wsimag.com/attachments/350f3ef500cbd0104e776f067b48291cdd8805a9/store/fill/930/523/7dd6dde0c8ba86fbc889271b5af8a0de547fece2fdff9d3b187d5f41d326/Latin-dancers.jpg",
+    "des":"Salsa is a Latin dance associated with the music genre of the same name which was first popularized in the United States in the 1960s in New York City."
+},
+{
+    "id":"12",
+    "name":"Strip Dance",
+    "price":"36",
+    "img":"https://dance-studio.cmsmasters.net/wp-content/uploads/2015/04/Depositphotos_5439264_original.jpg",
+    "des":"Strip dance has come a long way from the seedy bars and lewd cabarets of the past. As people begin to recognize the physical fitness and other positive characteristics of striptease, it has become a form of dance taught in the same places as traditional ballroom dance."
+}
+
+]
